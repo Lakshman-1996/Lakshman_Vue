@@ -5,9 +5,11 @@
         <div>
             <p>DETAILS</p>
                 <ul>
+                    <li>id:{{Resturant.id}}</li>
                     <li>cuisinetype:{{Resturant.cuisinetype}}</li>
                     <li>address:{{Resturant.address}}</li>
-                    <li>ontact:{{Resturant.contact}}</li>
+                    <li>contact:{{Resturant.contact}}</li>
+                    <li>DeliveryAvailability:{{Resturant.DeliveryAvailability}}</li>
                 </ul>
         </div>
     </div>
